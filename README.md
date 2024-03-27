@@ -37,7 +37,7 @@
 - Developed the prototype within 2 months for the CEO to fundraise.
 
 **Key Contributions**
-- Lead engineering while collaborating with AI research advisors in Silicon Valley every week.
+- Led engineering while collaborating with AI research advisors in Silicon Valley every week.
 - Designed the system architecture for Artmate so that the users can find their “taste” in art/exhibitions using chat rather than conventional search or discover.
 - Developed a modular backend server (currently integrated with the OpenAI API) which can be replaced easily with other LLMs (in consideration of exits and pivots).
 
