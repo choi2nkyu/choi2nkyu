@@ -12,7 +12,7 @@
 <img width="40%" align="top" alt="Github" style="display: block; margin: 20 auto;" src="./img/profile.webp" />
 
 - 👨🏽‍💻 A **business-savvy** builder with experience in co-founding, pivots, M&As, restructuring, and growth.
-- 🌱 A senior software engineer **(5+ years)** fluent in various languages and framworks.
+- 🌱 A senior software engineer **(5+ years)** fluent in various languages and frameworks.
 - 👑 Extremely passionate about products leveraging **next-gen technologies** to revolutionize how we live, work, and build relationships (e.g. AI, metaverse, blockchain, no-code, automation).
 - ⚡️ A **lightspeed learner** absorbing up-to-date technologies & an **entrepreneur** thriving on challenges.
 - 🦾 Capable in both building **from scratch** and enhancing **existing structures**.
@@ -23,7 +23,7 @@
 
 <!-- CATE -->
 
-<img width="10%" align="left" alt="cate" style="display: block; margin:30 20 10;" src="./img/logo1.jpg" />
+<img width="10%" align="left" alt="cate" style="display: block; margin:20 20 10;" src="./img/logo1.jpg" />
 
 ### CATE Corp.
 **CTO(Interim)** *(Jul 2023 - Feb 2024)*
