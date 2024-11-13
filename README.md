@@ -12,7 +12,7 @@
 <img width="40%" align="top" alt="Github" style="display: block; margin: 20 auto;" src="./img/profile.webp" />
 
 - 👨🏽‍💻 A **business-savvy** builder with experience in co-founding, pivots, M&As, restructuring, and growth.
-- 🌱 A senior software engineer **(5+ years)** fluent in various languages and frameworks.
+- 🌱 A senior software engineer **(6+ years)** fluent in various languages and frameworks.
 - 👑 Extremely passionate about products leveraging **next-gen technologies** to revolutionize how we live, work, and build relationships (e.g. AI, metaverse, blockchain, no-code, automation).
 - ⚡️ A **lightspeed learner** absorbing up-to-date technologies & an **entrepreneur** thriving on challenges.
 - 🦾 Capable in both building **from scratch** and enhancing **existing structures**.
@@ -20,6 +20,15 @@
 - 📫 How to reach me: choi2nkyu@gmail.com.
 
 ## **Work Experience:**
+
+<!-- Avalanche -->
+
+</br>
+<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20;" src="./img/logo2.png" />
+
+### Avalanche
+## AvaCloud
+**Sr. Solutions Engineer** *(Apr 2024 - Current)*
 
 <!-- CATE -->
 
