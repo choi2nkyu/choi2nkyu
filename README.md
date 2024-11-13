@@ -11,7 +11,7 @@
 
 <img width="40%" align="top" alt="Github" style="display: block; margin: 20 auto;" src="./img/profile.webp" />
 
-- 👨🏽‍💻 A **business-savvy** builder with experience in co-founding, pivots, M&As, restructuring, and growth.
+- 👨🏽‍💻 A **business-savvy** builder with experience in co-founding, solution-engineering, pivots, restructuring, and growth.
 - 🌱 A senior software engineer **(6+ years)** fluent in various languages and frameworks.
 - 👑 Extremely passionate about products leveraging **next-gen technologies** to revolutionize how we live, work, and build relationships (e.g. AI, metaverse, blockchain, no-code, automation).
 - ⚡️ A **lightspeed learner** absorbing up-to-date technologies & an **entrepreneur** thriving on challenges.
@@ -29,16 +29,16 @@
 ### Ava Labs
 **AvaCloud Sr. Solutions Engineer** *(Apr 2024 - Current)*
 <details>
-<summary style="font-weight: bold; font-size: 12pt;">Road to Solutions Engineer - AvaCloud</summary>
+<summary style="font-weight: bold; font-size: 12pt;">Scaling  Ava Labs' Enterprise Cloud Solution - AvaCloud</summary>
 <img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/avacloud.webp" />
 
 **Delivering Business Value**
 - Collaborates with Ava Labs' business development team, attending client meetings to help close deals and onboard new partners by providing technical insights on AvaCloud’s blockchain-as-a-service (BaaS) platform.
-- Developed the "Balance Checker" tool to monitor gas relayer wallet balances, sending automated Slack alerts when balances are low to ensure clients can maintain adequate funds.
-
-**Key Contributions**
 - Serves as the main point of contact between Ava Labs’ engineers and clients, ensuring technical solutions meet business needs.
 - Facilitates communication between Korean client partners and non-Korean solution engineers to streamline support.
+
+**Key Contributions**
+- Developed the "Balance Checker" tool to monitor gas relayer wallet balances, sending automated Slack alerts when balances are low to ensure clients can maintain adequate funds.
 
 **Tech Stack**
 - Slack API, Go, AvaCloud, Blockchain technologies, Hubspot
