@@ -30,7 +30,7 @@
 **AvaCloud Sr. Solutions Engineer** *(Apr 2024 - Current)*
 <details>
 <summary style="font-weight: bold; font-size: 12pt;">Scaling  Ava Labs' Enterprise Cloud Solution - AvaCloud</summary>
-<img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/avacloud.webp" />
+<img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/avacloud.png" />
 
 **Delivering Business Value**
 - Collaborates with Ava Labs' business development team, attending client meetings to help close deals and onboard new partners by providing technical insights on AvaCloud’s blockchain-as-a-service (BaaS) platform.
@@ -38,7 +38,10 @@
 - Facilitates communication between Korean client partners and non-Korean solution engineers to streamline support.
 
 **Key Contributions**
+- Contributed in on-boarding new clients.
+- Maintaining and helping client partners hands-on everyday.
 - Developed the "Balance Checker" tool to monitor gas relayer wallet balances, sending automated Slack alerts when balances are low to ensure clients can maintain adequate funds.
+- Presented at the Avalanche Summit 2024 and multiple conferences at universities.
 
 **Tech Stack**
 - Slack API, Go, AvaCloud, Blockchain technologies, Hubspot
