@@ -29,7 +29,7 @@
 ### Ava Labs
 **AvaCloud Sr. Solutions Engineer** *(Apr 2024 - Current)*
 <details>
-<summary style="font-weight: bold; font-size: 12pt;">Pivot to Generative Agents - Artmate</summary>
+<summary style="font-weight: bold; font-size: 12pt;">Road to Solutions Engineer - AvaCloud</summary>
 <img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/avacloud.webp" />
 
 **Delivering Business Value**
