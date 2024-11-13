@@ -24,13 +24,13 @@
 <!-- Avalanche -->
 
 </br>
-<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20; background-color: white;" src="./img/avalabs.webp" />
+<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20; background-color: white;" src="./img/avalabs.png" />
 
-### Avalanche
+### Ava Labs
 **AvaCloud Sr. Solutions Engineer** *(Apr 2024 - Current)*
 <details>
 <summary style="font-weight: bold; font-size: 12pt;">Pivot to Generative Agents - Artmate</summary>
-<img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/proj1.webp" />
+<img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/avacloud.webp" />
 
 **Delivering Business Value**
 - Collaborates with Ava Labs' business development team, attending client meetings to help close deals and onboard new partners by providing technical insights on AvaCloud’s blockchain-as-a-service (BaaS) platform.
@@ -46,6 +46,7 @@
 
 <!-- CATE -->
 
+</br>
 <img width="10%" align="left" alt="cate" style="display: block; margin:20 20 10;" src="./img/logo1.jpg" />
 
 ### CATE Corp.
