@@ -24,12 +24,25 @@
 <!-- Avalanche -->
 
 </br>
-<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20;" src="./img/avalabs.webp" />
+<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20; background-color: white;" src="./img/avalabs.webp" />
 
 ### Avalanche
-## AvaCloud
-</br>
-**Sr. Solutions Engineer** *(Apr 2024 - Current)*
+**AvaCloud Sr. Solutions Engineer** *(Apr 2024 - Current)*
+<details>
+<summary style="font-weight: bold; font-size: 12pt;">Pivot to Generative Agents - Artmate</summary>
+<img width="30%" align="top" alt="proj1" style="display: block; margin: 10 10;" src="./img/proj1.webp" />
+
+**Delivering Business Value**
+- Collaborates with Ava Labs' business development team, attending client meetings to help close deals and onboard new partners by providing technical insights on AvaCloud’s blockchain-as-a-service (BaaS) platform.
+- Developed the "Balance Checker" tool to monitor gas relayer wallet balances, sending automated Slack alerts when balances are low to ensure clients can maintain adequate funds.
+
+**Key Contributions**
+- Serves as the main point of contact between Ava Labs’ engineers and clients, ensuring technical solutions meet business needs.
+- Facilitates communication between Korean client partners and non-Korean solution engineers to streamline support.
+
+**Tech Stack**
+- Slack API, Go, AvaCloud, Blockchain technologies, Hubspot
+</details>
 
 <!-- CATE -->
 
