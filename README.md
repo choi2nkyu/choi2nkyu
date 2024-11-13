@@ -24,10 +24,11 @@
 <!-- Avalanche -->
 
 </br>
-<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20;" src="./img/logo2.png" />
+<img width="10%" align="left" alt="avalanche" style="display: block; margin: 40 20 20;" src="./img/avalabs.webp" />
 
 ### Avalanche
 ## AvaCloud
+</br>
 **Sr. Solutions Engineer** *(Apr 2024 - Current)*
 
 <!-- CATE -->
